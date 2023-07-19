@@ -12,4 +12,4 @@ npm start
 
 Enjoy...!
 
-### -- Require ExpressJS, Axios, Bootstrap, React, Mongoose --
+### -- Require ExpressJS, Axios, Bootstrap, React, Mongoose, Morgan --
